@@ -1,3 +1,3 @@
-# happybirthday
-帮基友做的，祝福她女朋友生日快乐
-https://shibobo.github.io/happybirthday/
+# happy 10000 day
+copy 
+https://fisheryzx.github.io/Happy10000Day/

@@ -1,6 +1,4 @@
-/*
- * http://love.hackerzhou.me
- */
+
 
 // variables
 var $win = $(window);
@@ -31,7 +29,7 @@ $(window).resize(function() {
 				if (progress >= str.length) {
 					clearInterval(timer);
 				}
-			}, 75);
+			}, 200);
 		});
 		return this;
 	};
